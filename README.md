@@ -16,7 +16,7 @@ To install **CompileCMM** on your Linux system, follow these steps:
 
 1. Clone the repository:
    ```bash
-    git clone https://github.com/yourusername/CompileCMM.git
+    git clone https://github.com/12345Anthon/CompileCMM.git
   
 2. Navigate to the project directory:
     ```
