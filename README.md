@@ -22,5 +22,16 @@ To install **CompileCMM** on your Linux system, follow these steps:
     ```
     cd CompileCMM
 
-3. 
+3. Run cmake
+   ```
+   cmake -S . -B build/
+   cmake --build build/
+4. Navigate to the build folder and run the executable
+   ```
+   ./CompileCMM <filename>
+!!!Your up and Running!!!
+
+## Docs 
+
+The documentation for C-- and this compiler will be writen very soon, for now please wait!
 
